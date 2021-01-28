@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <!--SYST-->
+  <BsePort>20000</BsePort>
+
+  <!--Rec-->
+  <PortRec>10001</PortRec>
+
+  <!--Snd-->
+  <IP>127.0.0.1</IP>
+  <PortSnd>20001</PortSnd>
+
+  <Disk>5</Disk>
+  <mark>@1</mark>
+  <YK>01B2NYV1020002</YK>
+</config>
